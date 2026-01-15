@@ -5,6 +5,18 @@ A comprehensive, role-based feedback management system developed for educational
 ## 🚀 Live Demo
 **[https://faculty-feedback-gamma.vercel.app](https://faculty-feedback-gamma.vercel.app)**
 
+## 🔐 Demo Credentials
+> **Note:** All accounts use the same password.
+
+*   **Password:** `spit123`
+
+| Role | Username | Description |
+| :--- | :--- | :--- |
+| **Admin** | `admin` | Full system access |
+| **HOD** | `hod_cmpn` | Computer Dept. Head |
+| **Faculty** | `prof_cmpn1` | Computer Dept. Faculty |
+| **Student** | `stu_cmpn_1` | Computer Dept. Student |
+
 ## ✨ Key Features
 
 ### 👮 Administrator
